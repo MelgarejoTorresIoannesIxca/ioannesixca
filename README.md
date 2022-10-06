@@ -28,3 +28,5 @@ asignatura:calificaciones , nombre de la asginatura
 -------------------------------------------------------- 
 diagrama de clases
 ![](https://github.com/MelgarejoTorresIoannesIxca/ioannesixca/blob/ejercicio1/DOC1.png)!
+----------------------------------------------------------
+## etapa 4:
