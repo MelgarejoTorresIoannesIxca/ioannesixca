@@ -30,3 +30,5 @@ diagrama de clases
 ![](https://github.com/MelgarejoTorresIoannesIxca/ioannesixca/blob/main/Menu.png)
 --------------------------------------------------------------------------------
 ##etapa 4= desarollo de la solucion
+
+https://github.com/MelgarejoTorresIoannesIxca/ioannesixca/blob/main/Promedio.zip
