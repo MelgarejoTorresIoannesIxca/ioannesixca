@@ -27,4 +27,6 @@ asignatura:calificaciones , nombre de la asginatura
 ## etapa 3=diseño de la solucion 
 -------------------------------------------------------- 
 diagrama de clases
-
+![](https://github.com/MelgarejoTorresIoannesIxca/ioannesixca/blob/main/Menu.png)
+--------------------------------------------------------------------------------
+##etapa 4= desarollo de la solucion
