@@ -13,7 +13,7 @@ asignatura:calificaciones , nombre de la asginatura
 - promedio = sumadelospromedios/totalcalificaciones
 3. salida:
 - resumen de los dato del estudiante con su promedio
-|----------------------------------------------------| 
+ 
 |- estudiante: Ioannes Ixca Melgarejo Torres         |
 |-grupo 1A CARRERA : ingenieria informatica          |
 |-                                                   |
